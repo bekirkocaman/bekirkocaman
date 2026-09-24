@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bekir Kocaman
 
-<!--
-**bekirkocaman/bekirkocaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student building practical software across AI, automation, mobile, and security.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Mini SIEM](https://github.com/bekirkocaman/mini-siem) — Lightweight Python/Flask security monitoring with log classification, detection rules, MITRE ATT&CK mapping, threat scoring, and a dashboard.
+- [EasyCall](https://github.com/bekirkocaman/EasyCall) — Accessibility-oriented Android app and web contact manager for simplified WhatsApp video calling.
+- [Event Hunter](https://github.com/bekirkocaman/etkinlik-botu) — Flask event discovery app with live SSE results, CSV export, and optional Google Sheets integration.
+
+## What I work on
+
+- AI-assisted developer and education tools
+- Mobile-first utilities and device integrations
+- Security monitoring, automation, and reproducible project documentation
+
+## Principles
+
+- Keep projects runnable and documented.
+- Treat secrets and user data carefully.
+- Prefer clear architecture, tests, and measurable behavior.
+
+[More repositories](https://github.com/bekirkocaman?tab=repositories)
